@@ -1,0 +1,8 @@
+[Android_Pixel10 INFO ] 2022-04-19 12:27:34.218 ServerManager:17 - starting appium server
+[Android_Pixel10 INFO ] 2022-04-19 12:27:40.073 ServerManager:26 - Appium server started
+[Android_Pixel10 INFO ] 2022-04-19 12:27:40.100 DriverManager:28 - initializing Appium driver
+[Android_Pixel10 INFO ] 2022-04-19 12:27:40.123 PropertyManager:18 - loading config properties
+[Android_Pixel10 INFO ] 2022-04-19 12:27:40.126 CapabilitiesManager:18 - getting capabilities
+[Android_Pixel10 INFO ] 2022-04-19 12:27:40.133 CapabilitiesManager:30 - appUrl isC:\Users\hambardzumyan.levon\Desktop\AppiumTestNGcucumber\src\test\resources\apps\ApiDemos-debug.apk
+[Android_Pixel10 INFO ] 2022-04-19 12:27:47.139 DriverManager:41 - Driver is initialized
+[Android_Pixel10 INFO ] 2022-04-19 12:27:57.193 VideoManager:35 - video path: Android_Pixel10\Videos\Login with valid user name.mp4
